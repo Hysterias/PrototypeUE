@@ -1,2 +1,2 @@
-# protypeUE
+# Protype in UE
 Prototype of game in 3D
